@@ -50,7 +50,7 @@
 
 
         <EditText
-            android:id="@+id/login_email"
+            android:id="@+id/signUp_email"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
@@ -62,7 +62,7 @@
 
 
         <EditText
-            android:id="@+id/login_pass"
+            android:id="@+id/signUp_pass"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:autofillHints=""
